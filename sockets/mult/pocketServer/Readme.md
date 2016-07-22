@@ -1,4 +1,4 @@
-#pocketServer
+#Pocket Server
  
 Pocket multithreading socket server.
 "localhost/" - return general page with simple two links.
